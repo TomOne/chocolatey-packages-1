@@ -8,6 +8,7 @@
     <owners>Thai Phan</owners>
     <licenseUrl>http://www.gnu.org/licenses/gpl.txt</licenseUrl>
     <projectUrl>http://deluge-torrent.org</projectUrl>
+    <iconUrl>http://cdn.rawgit.com/thaiphan/chocolatey-packages/f0be80778063e9bd009b0fa8137b74ea7e4a03f2/deluge/icon.svg</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Deluge is a full-featured BitTorrent client for Windows.</description>
     <tags>torrent download deluge file sharing</tags>
